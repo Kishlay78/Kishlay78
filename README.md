@@ -5,7 +5,7 @@
 
 - 📝 I write articles on [https://personaltech5.wordpress.com/](https://personaltech5.wordpress.com/)
 
-- 💬 Ask me about **Frontend development, Wordpress**
+- 💬 Ask me about **Frontend development**
 
 - 📫 How to reach me **kishlaysharma78@gmail.com**
 
